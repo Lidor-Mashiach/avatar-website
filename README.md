@@ -15,7 +15,7 @@ Additionally, the website is written from the perspective of an older Aang, post
 
 ### 🌐 Live Website Access
 
-- 🔗 **URL**: [https://Lidor-Mashiach-Avatar-Website.com](https://my-avatar-website.com)
+- 🔗 **URL**: [https://Lidor-Mashiach-Avatar-Website.com](https://lidor-mashiach.github.io/avatar-website/)
 - 📷 **QR Code**:
 - 
   <img src="QR/avatar_qr.png" alt="QR code to website" width="200">
